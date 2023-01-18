@@ -1,0 +1,2 @@
+// A script that lists documents that match the given data
+db.school.find({ name : "Holberton school"})

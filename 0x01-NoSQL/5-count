@@ -1,0 +1,2 @@
+// A script that returns the number of documents in a collectio
+db.school.count()
